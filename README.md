@@ -1,7 +1,7 @@
 ---
 app: "Judeus de Coimbra App Android"          # Entre as aspas escreve o nome da app
 date: "16/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://play.google.com/store/apps/details?id=com.realizasom.judeus_de_coimbra&hl=pt_PT"   # Entre as aspas escreve o endereço da app na loja
+uri: "https://www.cm-coimbra.pt/wp-content/uploads/2026/05/accessibility-statement_Judeus_de_Coimbra_Android.html"   # Entre as aspas escreve o endereço da app na loja
 a11y_statement: "https://dominio_sitio_web.pt/apps/acessibilidade-app1" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
 owner: "CM de Coimbra"         # Entre as aspas escrever o nome do owner da app
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
